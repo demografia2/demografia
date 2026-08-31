@@ -24,7 +24,7 @@ Gosto de transformar ideias em sistemas completos, criando plugins, minigames e 
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,gradle,mysql,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,github" />
 </p>
 
 ---
@@ -59,10 +59,13 @@ Desenvolvimento de plugins e sistemas personalizados para servidores Minecraft.
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/demografia2">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-demografia__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
+
+**Discord:** `demografia_`
 
 ---
 
